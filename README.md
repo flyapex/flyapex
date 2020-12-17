@@ -7,7 +7,7 @@
 
 - 🔭 I just launched my first Big Project: !
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developer 
+- 👯 I’m looking to collaborate with other developer
 - 🥅 2021 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I love to Gaming and Content creating
 
@@ -17,44 +17,86 @@
 
 ### Connect with me:
 
-<h3 align="left">### Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flyapex&" alt="flyapex" /></p>
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][reactplaylist]
+[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[webdevplaylist]
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][webdevplaylist]
+[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][cssplaylist]
+<br />
+<br />
 
 ---
 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to make a Discord Input in HTML & CSS | Micro-Interaction & JavaScript Validation](test)
-- [Deploy Next.js on Netlify in ONE click!! | Next.js Build Plugin on Netlify](test)
-- [Ultimate Guide to Web Development in 2021 & Beyond! | Roadmap 2021+](test)
-- [Quick JavaScript Challenge from Scrimba - Advent Calendar](test)
-- [BLACK FRIDAY!! - Join Me For An Amazing Offer!!](test)
+- [How to make a Discord Input in HTML & CSS | Micro-Interaction & JavaScript Validation](https://www.youtube.com/)
+- [Deploy Next.js on Netlify in ONE click!! | Next.js Build Plugin on Netlify](https://www.youtube.com/)
+- [Ultimate Guide to Web Development in 2021 & Beyond! | Roadmap 2021+](https://www.youtube.com/)
+- [Quick JavaScript Challenge from Scrimba - Advent Calendar](https://www.youtube.com/)
+- [BLACK FRIDAY!! - Join Me For An Amazing Offer!!](https://www.youtube.com/)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/)
 
 ---
 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](test)
-- [Notion + YouTube - A Powerful Combination for Productivity](test)
-- [Regular Expressions (RegEx) Crash Course](test)
-- [Emmet Part 2 - Advanced](test)
-- [Deno 1.0 Released! (Easy) REST API Example](test)
+- [Microinteractions: Password Validation Animation](https://www.google.com/)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://www.google.com/)
+- [Regular Expressions (RegEx) Crash Course](https://www.google.com/)
+- [Emmet Part 2 - Advanced](https://www.google.com/)
+- [Deno 1.0 Released! (Easy) REST API Example](https://www.google.com/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](test)
+➡️ [more blog posts...](https://www.google.com/)
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-<!--START_SECTION:activity--> 
+</details>
+
+[website]:https://www.google.com/
+[twitter]: https://twitter.com/Asadullah199910
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/ad_galib
+[linkedin]: https://linkedin.com/in/al-galib-1b646b1bb
+[webdevplaylist]: https://www.youtube.com/
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#28](https://github.com/jamesgeorge007/scaffold-static/issues/28) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+2. 🎉 Merged PR [#28](https://github.com/jamesgeorge007/scaffold-static/pull/28) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+3. 🎉 Merged PR [#27](https://github.com/jamesgeorge007/scaffold-static/pull/27) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+4. 💪 Opened PR [#27](https://github.com/jamesgeorge007/scaffold-static/pull/27) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+5. 🎉 Merged PR [#1](https://github.com/jamesgeorge007/cli-prompts-test/pull/1) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+<!--END_SECTION:activity-->
+
+---
+
+<!--
+**flyapex/flyapex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
