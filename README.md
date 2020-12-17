@@ -44,33 +44,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [How to make a Discord Input in HTML & CSS | Micro-Interaction & JavaScript Validation](https://www.youtube.com/)
-- [Deploy Next.js on Netlify in ONE click!! | Next.js Build Plugin on Netlify](https://www.youtube.com/)
-- [Ultimate Guide to Web Development in 2021 & Beyond! | Roadmap 2021+](https://www.youtube.com/)
-- [Quick JavaScript Challenge from Scrimba - Advent Calendar](https://www.youtube.com/)
-- [BLACK FRIDAY!! - Join Me For An Amazing Offer!!](https://www.youtube.com/)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://www.google.com/)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://www.google.com/)
-- [Regular Expressions (RegEx) Crash Course](https://www.google.com/)
-- [Emmet Part 2 - Advanced](https://www.google.com/)
-- [Deno 1.0 Released! (Easy) REST API Example](https://www.google.com/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://www.google.com/)
-
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
