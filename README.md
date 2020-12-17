@@ -5,7 +5,7 @@
 
 ## I'm a Student, Fast Learner, Developer, Gamer!!
 
-- 🔭 I just launched my first course: !
+- 🔭 I just launched my first Big Project: !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developer 
 - 🥅 2021 Goals: Contribute more to Open Source projects 
