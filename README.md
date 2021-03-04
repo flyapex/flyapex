@@ -60,9 +60,9 @@
 [website]:https://www.google.com/
 [twitter]: https://twitter.com/Asadullah199910
 [youtube]: https://www.youtube.com/channel/UCjTvHN0jEma5aaA7mZ6UJfA
-[instagram]: https://instagram.com/ad_galib
+[instagram]: https://www.instagram.com/ad_galib.png/
 [linkedin]: https://linkedin.com/in/al-galib-1b646b1bb
-[webdevplaylist]: www.instagram.com/ad_galib.png
+
 
 ### :zap: Recent Activity
 
