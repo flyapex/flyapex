@@ -62,7 +62,7 @@
 [youtube]: https://www.youtube.com/channel/UCjTvHN0jEma5aaA7mZ6UJfA
 [instagram]: https://instagram.com/ad_galib
 [linkedin]: https://linkedin.com/in/al-galib-1b646b1bb
-[webdevplaylist]: https://www.instagram.com/ad_galib.png/
+[webdevplaylist]: https://www.instagram.com/ad_galib.png
 
 ### :zap: Recent Activity
 
