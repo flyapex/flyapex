@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I love to Gaming and Content creating
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315pl7iejrdy63s35ytd3ztlwy2y&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=315pl7iejrdy63s35ytd3ztlwy2y&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315pl7iejrdy63s35ytd3ztlwy2y&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=315pl7iejrdy63s35ytd3ztlwy2y&redirect=true)
 
 
 
@@ -60,8 +60,8 @@
 
 [website]:https://www.google.com/
 [twitter]: https://twitter.com/algalib_007
-[youtube]: https://www.youtube.com/channel/UCjTvHN0jEma5aaA7mZ6UJfA?sub_confirmation=1
-[instagram]: https://www.instagram.com/ad_galib.png/
+[youtube]: https://www.instagram.com/al_galib007/
+[instagram]: https://www.instagram.com/al_galib007/
 [linkedin]: https://linkedin.com/in/al-galib-1b646b1bb
 
 
