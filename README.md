@@ -18,8 +18,8 @@
 - ⚡ Fun fact: I love to Gaming and Content creating
 
 ### Spotify Playing 🎧
+[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/315pl7iejrdy63s35ytd3ztlwy2y)
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Flyapex Spotify Playing" width="350" />](https://open.spotify.com/user/315pl7iejrdy63s35ytd3ztlwy2y)
 
 ### Connect with me:
 
