@@ -19,7 +19,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Flyapex Spotify Playing" width="350" />](https://open.spotify.com/user/315pl7iejrdy63s35ytd3ztlwy2y)
 
 ### Connect with me:
 
@@ -58,7 +58,7 @@
 </details>
 
 [website]:https://www.google.com/
-[twitter]: https://twitter.com/Asadullah199910
+[twitter]: https://twitter.com/algalib_007
 [youtube]: https://www.youtube.com/channel/UCjTvHN0jEma5aaA7mZ6UJfA?sub_confirmation=1
 [instagram]: https://www.instagram.com/ad_galib.png/
 [linkedin]: https://linkedin.com/in/al-galib-1b646b1bb
@@ -67,11 +67,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/flyapex/scaffold-static/issues/28) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-2. 🎉 Merged PR [#28](https://github.com/jamesgeorge007/scaffold-static/pull/28) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-3. 🎉 Merged PR [#27](https://github.com/jamesgeorge007/scaffold-static/pull/27) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-4. 💪 Opened PR [#27](https://github.com/jamesgeorge007/scaffold-static/pull/27) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
-5. 🎉 Merged PR [#1](https://github.com/jamesgeorge007/cli-prompts-test/pull/1) in [jamesgeorge007/cli-prompts-test](https://github.com/jamesgeorge007/cli-prompts-test)
+1. 🗣 Commented on [#28]
+2. 🎉 Merged PR [#28]
+3. 🎉 Merged PR [#27]
+4. 💪 Opened PR [#27]
+5. 🎉 Merged PR [#1]
 <!--END_SECTION:activity-->
 <!--END_SECTION:activity-->
 
