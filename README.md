@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I love to Gaming and Content creating
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315pl7iejrdy63s35ytd3ztlwy2y&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315pl7iejrdy63s35ytd3ztlwy2y&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=315pl7iejrdy63s35ytd3ztlwy2y&redirect=true)
 
 
 
