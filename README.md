@@ -77,6 +77,8 @@
 <!--END_SECTION:activity-->
 
 ---
+## life is fun!, enjoy it.👏🦄😁
+![snake gif](https://github.com/flyapex/flyapex/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **flyapex/flyapex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
