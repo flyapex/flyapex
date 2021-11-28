@@ -77,6 +77,13 @@
 <!--END_SECTION:activity-->
 
 ---
+## ┌─» WORK »────────────
+ <p align='right'>
+  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=flyapex&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api?username=flyapex&count_private=true&theme=radical"/>
+</p>
+
+
 ## life is fun!, enjoy it.👏🦄😁
 ![snake gif](https://github.com/flyapex/flyapex/blob/output/github-contribution-grid-snake.gif)
 
