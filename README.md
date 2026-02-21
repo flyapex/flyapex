@@ -90,16 +90,6 @@ fun_fact: "Life is fun, enjoy it! 🦄"
 
 ---
 
-### 🎧 Spotify Now Playing
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315pl7iejrdy63s35ytd3ztlwy2y&cover_image=true&theme=natemoo-re&bar_color=00f5ff&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=315pl7iejrdy63s35ytd3ztlwy2y&redirect=true)
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
